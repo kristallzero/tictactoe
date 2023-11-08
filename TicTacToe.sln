@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TicTacToe", "TicTacToe\TicTacToe.csproj", "{6EF04A72-B566-4FFB-9917-794F556A28DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|ARM64 = Debug|ARM64
+		jjj|Any CPU = jjj|Any CPU
+		jjj|ARM64 = jjj|ARM64
+		Release|Any CPU = Release|Any CPU
+		Release|ARM64 = Release|ARM64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6EF04A72-B566-4FFB-9917-794F556A28DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EF04A72-B566-4FFB-9917-794F556A28DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EF04A72-B566-4FFB-9917-794F556A28DF}.Debug|ARM64.ActiveCfg = Debug|ARM64
+		{6EF04A72-B566-4FFB-9917-794F556A28DF}.Debug|ARM64.Build.0 = Debug|ARM64
+		{6EF04A72-B566-4FFB-9917-794F556A28DF}.jjj|Any CPU.ActiveCfg = jjj|Any CPU
+		{6EF04A72-B566-4FFB-9917-794F556A28DF}.jjj|Any CPU.Build.0 = jjj|Any CPU
+		{6EF04A72-B566-4FFB-9917-794F556A28DF}.jjj|ARM64.ActiveCfg = jjj|ARM64
+		{6EF04A72-B566-4FFB-9917-794F556A28DF}.jjj|ARM64.Build.0 = jjj|ARM64
+		{6EF04A72-B566-4FFB-9917-794F556A28DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EF04A72-B566-4FFB-9917-794F556A28DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6EF04A72-B566-4FFB-9917-794F556A28DF}.Release|ARM64.ActiveCfg = Release|ARM64
+		{6EF04A72-B566-4FFB-9917-794F556A28DF}.Release|ARM64.Build.0 = Release|ARM64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {169DB9AB-85EC-4966-AE2F-E0E54D074F60}
+	EndGlobalSection
+EndGlobal
